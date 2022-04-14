@@ -1,7 +1,13 @@
 # momo3o-skins
 
-# [azerino new (no mod)](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/azerino%20new.osk)
-![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/azerino%20new.png?raw=true)
+# [azerino Potofu 1.0](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/azerino%20Potofu.osk)
+![](https://github.com/sailornekochan/momo3o-skins/raw/main/img/azerino%20Potofu.jpg)
+
+# [azerino Potofu 2.0](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/azerino%20Potofu%202.0.osk)
+![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/azerino%20Potofu%202.0.jpg?raw=true)
+
+# [azerino Potofu 2.1](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/azerino%20Potofu%202.1.osk)
+![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/azerino%20Potofu%202.1.png?raw=true)
 
 # [Cookiezi edit by momo (hd)](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/Cookiezi%20edit%20by%20momo.osk)
 ![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/Cookiezi%20edit%20by%20momo.osk.png?raw=true)
