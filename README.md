@@ -1,5 +1,8 @@
 # momo3o-skins
 
+# [BDDav+v4+cptnxn+ver. edited by momo](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/BDDav%2Bv4%2Bcptnxn%2Bver.%20edited%20by%20momo.osk)
+![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/BDDav+v4+cptnxn+ver.%20edited%20by%20momo.png?raw=true)
+
 # [azerino Potofu 1.0](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/azerino%20Potofu.osk)
 ![](https://github.com/sailornekochan/momo3o-skins/raw/main/img/azerino%20Potofu.jpg)
 
@@ -20,7 +23,6 @@
 
 # [Prawilnosc+v+998+HD (DT AR10.3)](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/Prawilnosc%2Bv%2B998%2BHD.osk)
 ![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/Prawilnosc+v+998+HD.png?raw=true)
-
 
 # [GS2 (hd low ar)](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/GS2.osk)
 ![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/GS2.png?raw=true)
