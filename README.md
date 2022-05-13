@@ -1,5 +1,8 @@
 # momo3o-skins
 
+# [Kelathis (Nalian)](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/Kelathis%20(Nalian).rar)
+![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/Kelathis%20(Nalian).png?raw=true)
+
 # [BDDav+v4+cptnxn+ver. edited by momo](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/BDDav%2Bv4%2Bcptnxn%2Bver.%20edited%20by%20momo.osk)
 ![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/BDDav+v4+cptnxn+ver.%20edited%20by%20momo.png?raw=true)
 
