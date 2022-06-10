@@ -1,5 +1,8 @@
 # momo3o-skins
 
+# [kuu01 Kantoku](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/kuu01%20Kantoku.osk)
+![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/kuu01%20Kantoku.png?raw=true)
+
 # [Kelathis (Nalian)](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/Kelathis%20(Nalian).rar)
 ![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/Kelathis%20(Nalian).png?raw=true)
 
