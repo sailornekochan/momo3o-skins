@@ -1,5 +1,8 @@
 # momo3o-skins
 
+# [!AcidKatzV12 edit](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/!AcidKatzV12%20edit.osk)
+![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/!AcidKatzV12%20edit.png?raw=true)
+
 # [kuu01 Kantoku](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/kuu01%20Kantoku.osk)
 ![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/kuu01%20Kantoku.png?raw=true)
 
