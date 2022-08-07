@@ -1,6 +1,6 @@
 # momo3o-skins
 
-# [Instafade v4 test white](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/!AcidKatzV12%20edit.osk)
+# [Prawilnosc+v+998 edit EZ](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/!AcidKatzV12%20edit.osk)
 ![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/!AcidKatzV12%20edit.png?raw=true)
 
 # [!AcidKatzV12 edit](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/!AcidKatzV12%20edit.osk)
