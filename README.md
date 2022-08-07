@@ -1,7 +1,7 @@
 # momo3o-skins
 
-# [Prawilnosc+v+998 edit EZ](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/!AcidKatzV12%20edit.osk)
-![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/!AcidKatzV12%20edit.png?raw=true)
+# [Prawilnosc+v+998 edit EZ](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/Prawilnosc%2Bv%2B998%20edit%20EZ.osk)
+![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/Prawilnosc+v+998%20edit%20EZ.png?raw=true)
 
 # [!AcidKatzV12 edit](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/!AcidKatzV12%20edit.osk)
 ![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/!AcidKatzV12%20edit.png?raw=true)
