@@ -1,5 +1,8 @@
 # momo3o-skins
 
+# [Mathi+Prawilnosc+v+998](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/Mathi%2BPrawilnosc%2Bv%2B998.osk)
+![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/Mathi+Prawilnosc+v+998.png?raw=true)
+
 # [Prawilnosc+v+998 edit EZ](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/Prawilnosc%2Bv%2B998%20edit%20EZ.osk)
 ![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/Prawilnosc+v+998%20edit%20EZ.png?raw=true)
 
