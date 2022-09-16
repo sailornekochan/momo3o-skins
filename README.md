@@ -1,6 +1,6 @@
 # momo3o-skins
 
-# [Extrazer DT white](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/Extrazer%20DT%20white.osk)
+# [Extrazer DT white (AR10.3 skin)](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/Extrazer%20DT%20white.osk)
 ![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/Extrazer%20DT%20white.png?raw=true)
 
 # [Nezunyan edit (HD skin)](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/Nezunyan%20edit.osk)
