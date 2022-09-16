@@ -1,7 +1,7 @@
 # momo3o-skins
 
 # [Nezunyan edit](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/Nezunyan%20edit.osk)
-![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/Nezunyan%20edit.png?raw=true)
+![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/Nezunyan_edit.png?raw=true)
 
 # [Mathi+Prawilnosc+v+998](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/Mathi%2BPrawilnosc%2Bv%2B998.osk)
 ![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/Mathi+Prawilnosc+v+998.png?raw=true)
