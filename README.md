@@ -3,7 +3,7 @@
 # [Extrazer DT white](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/Extrazer%20DT%20white.osk)
 ![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/Extrazer%20DT%20white.png?raw=true)
 
-# [Nezunyan edit](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/Nezunyan%20edit.osk)
+# [Nezunyan edit (HD skin)](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/Nezunyan%20edit.osk)
 ![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/Nezunyan_edit.png?raw=true)
 
 # [YUGEN FINAL WS (HD skin)](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/YUGEN%20FINAL%20WS%20(HD%20skin))
