@@ -6,7 +6,7 @@
 # [Nezunyan edit (HD skin)](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/Nezunyan%20edit.osk)
 ![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/Nezunyan_edit.png?raw=true)
 
-# [YUGEN FINAL WS (HD skin)](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/YUGEN%20FINAL%20WS%20(HD%20skin))
+# [YUGEN FINAL WS (HD skin)](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/YUGEN%20FINAL%20WS%20(HD%20skin).osk)
 ![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/YUGEN%20FINAL%20WS%20(HD%20skin).png?raw=true)
 
 # [Mathi+Prawilnosc+v+998](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/Mathi%2BPrawilnosc%2Bv%2B998.osk)
