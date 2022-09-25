@@ -1,5 +1,8 @@
 # momo3o-skins
 
+# [azerino Potofu 2.2](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/azerino%20Potofu%202.2.osk)
+![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/azerino%20Potofu%202.2.png?raw=true)
+
 # [Extrazer DT white (AR10.3 skin)](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/Extrazer%20DT%20white.osk)
 ![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/Extrazer%20DT%20white.png?raw=true)
 
