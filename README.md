@@ -3,10 +3,13 @@
 # [a+Nahida+Skin v0.1](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/a%2BNahida%2BSkin%20v0.1.osk)
 ![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/a+Nahida+Skin%20v0.1.png?raw=true)
 
-# [Sephiev3]
+# [Shizuru - 2013](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/Shizuru%20-%202013.osk)
+![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/Shizuru%20-%202013.png?raw=true)
+
+# [Sephiev3](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/-%20Sephiev3%20-.osk)
 ![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/-%20Sephiev3%20-.png?raw=true)
 
-# [Albert 4.2]
+# [Albert 4.2](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/Albert%204.2.osk)
 ![](https://github.com/sailornekochan/momo3o-skins/blob/main/img/Albert%204.2.png?raw=true)
 
 # [Black2014Mod](https://github.com/sailornekochan/momo3o-skins/raw/main/osk/Black2014Mod.osk)
